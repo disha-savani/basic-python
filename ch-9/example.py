@@ -1,0 +1,5 @@
+f=open("this.txt","r")
+#f.write("this is nice")
+text=f.read()
+print(text)
+f.close()
